@@ -1,5 +1,5 @@
 ---
-layout: standard
+layout: default
 title: Hello to my website
 ---
 
