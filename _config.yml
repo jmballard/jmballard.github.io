@@ -1,0 +1,13 @@
+# Site Settings
+title: JM Ballard - my website
+email: bronnimannj@gmail.com
+description: >
+  This is my website
+baseurl: ''
+url: 'https://jmballard.github.io/'
+github_username: jmballard
+# Build Settings
+sass:
+  sass_dir: _sass
+kramdown:
+  input: GFM
