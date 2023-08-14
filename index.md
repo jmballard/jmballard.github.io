@@ -20,3 +20,5 @@ title: Hello to my website
 ## Misc
 
 This website was created via GitHub pages using Jekyll for the theme.
+
+last updated: 14/08/2023, 12:26
