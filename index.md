@@ -1,4 +1,8 @@
-# Hello to my website
+---
+layout: standard
+title: Hello to my website
+---
+
 
 ## Who am I?
 
